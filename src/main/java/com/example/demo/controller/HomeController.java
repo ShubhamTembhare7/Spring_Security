@@ -9,6 +9,7 @@ public class HomeController {
 	public String getdata()
 	{
 		String msg="Welcome to YASH Technology";
+		System.out.println("Hello Merge");
 		System.out.println("Hello I am git");
 		return msg;
 		
